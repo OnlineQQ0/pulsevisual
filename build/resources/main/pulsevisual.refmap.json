@@ -1,8 +1,0 @@
-{
-  "data": {
-    "net/minecraft/class_1657": {
-      "tick": "method_6145",
-      "Lnet/minecraft/class_1657;tick()V": "Lnet/minecraft/class_1657;method_6145()V"
-    }
-  }
-}

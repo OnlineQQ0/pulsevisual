@@ -89,3 +89,8 @@ publishing {
         // Add repositories to publish to here.
     }
 }
+loom {
+    mixin {
+        defaultRefmapName = "pulsevisual.refmap.json"
+    }
+}
