@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "pulsevisual",
+  "version": "1.0.0",
+  "name": "Pulse Visual",
+  "description": "Клиентский мод с визуальными улучшениями для Minecraft",
+  "authors": ["Ceejiva"],
+  "environment": "client",
+  "entrypoints": {
+    "client": ["ru.ceejiva.pulsevisual.PulseVisualMod"]
+  },
+  "mixins": [
+    "pulsevisual.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "1.21.4",
+    "java": ">=17",
+    "fabric-api": ">=0.116.0+1.21.4",
+    "libgui": ">=12.0.1+1.21.2",
+    "cloth-config": ">=17.0.142"
+  }
+}

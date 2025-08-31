@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="21">
+      <module name="pulsevisual.main" target="17" />
+      <module name="pulsevisual.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-AoutRefMapFile=C:\Users\ceejiva\Documents\pulsevisual\build\classes\java\main\PulseVisualMod-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=C:\Users\ceejiva\Documents\pulsevisual\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21_4.1.21.4+build.8-v2.main.tiny -AinMapFileNamedIntermediary=C:\Users\ceejiva\.gradle\caches\fabric-loom\1.21.4\net.fabricmc.yarn.1_21_4.1.21.4+build.8-v2\mappings.tiny" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="PulseVisualMod.test" options="-AoutRefMapFile=C:\Users\ceejiva\Documents\pulsevisual\build\classes\java\test\test-PulseVisualMod-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=C:\Users\ceejiva\Documents\pulsevisual\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21_4.1.21.4+build.8-v2.test.tiny -AinMapFileNamedIntermediary=C:\Users\ceejiva\.gradle\caches\fabric-loom\1.21.4\net.fabricmc.yarn.1_21_4.1.21.4+build.8-v2\mappings.tiny" />
+      <module name="pulsevisual.test" options="-AoutRefMapFile=C:\Users\ceejiva\Documents\pulsevisual\build\classes\java\test\test-PulseVisualMod-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=C:\Users\ceejiva\Documents\pulsevisual\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21_4.1.21.4+build.2-v2.test.tiny -AinMapFileNamedIntermediary=C:\Users\ceejiva\.gradle\caches\fabric-loom\1.21.4\net.fabricmc.yarn.1_21_4.1.21.4+build.2-v2\mappings.tiny" />
+    </option>
+  </component>
+</project>

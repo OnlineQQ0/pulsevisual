@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "ru.ceejiva.pulsevisual.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "TotemMixin",
+    "EffectRendererMixin",
+    "GameRendererMixin",
+    "WorldRendererMixin",
+    "RemoveEffectsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
